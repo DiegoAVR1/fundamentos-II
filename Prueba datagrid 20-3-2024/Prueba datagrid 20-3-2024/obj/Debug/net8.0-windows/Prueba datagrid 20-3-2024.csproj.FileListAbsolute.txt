@@ -1,0 +1,6 @@
+C:\Users\miguel\source\repos\Prueba datagrid 20-3-2024\Prueba datagrid 20-3-2024\obj\Debug\net8.0-windows\Prueba_datagrid_20_3_2024.Form1.resources
+C:\Users\miguel\source\repos\Prueba datagrid 20-3-2024\Prueba datagrid 20-3-2024\obj\Debug\net8.0-windows\Prueba datagrid 20-3-2024.csproj.GenerateResource.cache
+C:\Users\miguel\source\repos\Prueba datagrid 20-3-2024\Prueba datagrid 20-3-2024\obj\Debug\net8.0-windows\Prueba datagrid 20-3-2024.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miguel\source\repos\Prueba datagrid 20-3-2024\Prueba datagrid 20-3-2024\obj\Debug\net8.0-windows\Prueba datagrid 20-3-2024.AssemblyInfoInputs.cache
+C:\Users\miguel\source\repos\Prueba datagrid 20-3-2024\Prueba datagrid 20-3-2024\obj\Debug\net8.0-windows\Prueba datagrid 20-3-2024.AssemblyInfo.cs
+C:\Users\miguel\source\repos\Prueba datagrid 20-3-2024\Prueba datagrid 20-3-2024\obj\Debug\net8.0-windows\Prueba datagrid 20-3-2024.csproj.CoreCompileInputs.cache
