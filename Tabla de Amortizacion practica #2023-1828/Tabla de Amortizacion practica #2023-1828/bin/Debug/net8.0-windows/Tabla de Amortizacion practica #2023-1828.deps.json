@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Tabla de Amortizacion practica #2023-1828/1.0.0": {
+        "runtime": {
+          "Tabla de Amortizacion practica #2023-1828.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tabla de Amortizacion practica #2023-1828/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

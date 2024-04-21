@@ -1,0 +1,16 @@
+C:\Users\miguel\source\repos\Tabla de Amortizacion practica #2023-1828\Tabla de Amortizacion practica #2023-1828\bin\Debug\net8.0-windows\Tabla de Amortizacion practica #2023-1828.exe
+C:\Users\miguel\source\repos\Tabla de Amortizacion practica #2023-1828\Tabla de Amortizacion practica #2023-1828\bin\Debug\net8.0-windows\Tabla de Amortizacion practica #2023-1828.deps.json
+C:\Users\miguel\source\repos\Tabla de Amortizacion practica #2023-1828\Tabla de Amortizacion practica #2023-1828\bin\Debug\net8.0-windows\Tabla de Amortizacion practica #2023-1828.runtimeconfig.json
+C:\Users\miguel\source\repos\Tabla de Amortizacion practica #2023-1828\Tabla de Amortizacion practica #2023-1828\bin\Debug\net8.0-windows\Tabla de Amortizacion practica #2023-1828.dll
+C:\Users\miguel\source\repos\Tabla de Amortizacion practica #2023-1828\Tabla de Amortizacion practica #2023-1828\bin\Debug\net8.0-windows\Tabla de Amortizacion practica #2023-1828.pdb
+C:\Users\miguel\source\repos\Tabla de Amortizacion practica #2023-1828\Tabla de Amortizacion practica #2023-1828\obj\Debug\net8.0-windows\Tabla_de_Amortizacion_practica__2023_1828.Form1.resources
+C:\Users\miguel\source\repos\Tabla de Amortizacion practica #2023-1828\Tabla de Amortizacion practica #2023-1828\obj\Debug\net8.0-windows\Tabla de Amortizacion practica #2023-1828.csproj.GenerateResource.cache
+C:\Users\miguel\source\repos\Tabla de Amortizacion practica #2023-1828\Tabla de Amortizacion practica #2023-1828\obj\Debug\net8.0-windows\Tabla de Amortizacion practica #2023-1828.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\miguel\source\repos\Tabla de Amortizacion practica #2023-1828\Tabla de Amortizacion practica #2023-1828\obj\Debug\net8.0-windows\Tabla de Amortizacion practica #2023-1828.AssemblyInfoInputs.cache
+C:\Users\miguel\source\repos\Tabla de Amortizacion practica #2023-1828\Tabla de Amortizacion practica #2023-1828\obj\Debug\net8.0-windows\Tabla de Amortizacion practica #2023-1828.AssemblyInfo.cs
+C:\Users\miguel\source\repos\Tabla de Amortizacion practica #2023-1828\Tabla de Amortizacion practica #2023-1828\obj\Debug\net8.0-windows\Tabla de Amortizacion practica #2023-1828.csproj.CoreCompileInputs.cache
+C:\Users\miguel\source\repos\Tabla de Amortizacion practica #2023-1828\Tabla de Amortizacion practica #2023-1828\obj\Debug\net8.0-windows\Tabla de Amortizacion practica #2023-1828.dll
+C:\Users\miguel\source\repos\Tabla de Amortizacion practica #2023-1828\Tabla de Amortizacion practica #2023-1828\obj\Debug\net8.0-windows\refint\Tabla de Amortizacion practica #2023-1828.dll
+C:\Users\miguel\source\repos\Tabla de Amortizacion practica #2023-1828\Tabla de Amortizacion practica #2023-1828\obj\Debug\net8.0-windows\Tabla de Amortizacion practica #2023-1828.pdb
+C:\Users\miguel\source\repos\Tabla de Amortizacion practica #2023-1828\Tabla de Amortizacion practica #2023-1828\obj\Debug\net8.0-windows\Tabla de Amortizacion practica #2023-1828.genruntimeconfig.cache
+C:\Users\miguel\source\repos\Tabla de Amortizacion practica #2023-1828\Tabla de Amortizacion practica #2023-1828\obj\Debug\net8.0-windows\ref\Tabla de Amortizacion practica #2023-1828.dll
